@@ -113,7 +113,7 @@ footer {
     <h2>Contact Us</h2>
     <p>Have any questions or feedback? We'd love to hear from you! Please feel free to contact us through the following channels:</p>
     <ul>
-      <li>Phone: +91 98500 76765 , +91 98501 19948</li>
+      <li>Phone: +91 98500 76765 , +91 93263 69655</li>
       <li>Address:ishitafoods2018@gmail.com</li>
     </ul>
   </section>
